@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/technique-recherche-emploi.iml" filepath="$PROJECT_DIR$/.idea/modules/technique-recherche-emploi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin/technique-recherche-emploi.plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin/technique-recherche-emploi.plugin.iml" />
     </modules>
   </component>
 </project>
