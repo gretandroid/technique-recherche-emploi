@@ -1,6 +1,6 @@
 = Technique de recherche d'emploi
 
-==== Verbes
+=== Verbes
 
 ==== verbe 1
 image::doc/Verbe 1 001.jpg[Verbe1,640,740]
@@ -11,3 +11,19 @@ image::doc/Verbe 3 001.jpg[Verbe3,640,740]
 ==== verbe 4
 image::doc/Verbe 4 001.jpg[Verbe4,640,740]
 
+=== La lettre de motivation
+
+Objet : offre de competence developpeur +
+ +
+ +
+Madame, Monsieur, +
+Votre entreprise specialisé dans le domaine du developpement informatique, +
+en particulier dans les applications mobile, attire mon attention et m'incite à vous proposer mes services. +
+Pour vous permettre d'apprecier mon profil et ce que je suis en mesure de vous apporter, +
+vous trouverez en piece jointe mon curriculum vitae. +
+Mon experience professionnel, me permet de prendre en charge : +
+
+* -----
+* -----
+* -----
+* -----
