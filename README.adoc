@@ -1,3 +1,13 @@
 = Technique de recherche d'emploi
 
 ==== Verbes
+
+==== verbe 1
+image::doc/Verbe 1 001.jpg[Verbe1,640,480]
+==== verbe 2
+image::doc/Verbe 2 001.jpg[Verbe2,640,480]
+==== verbe 3
+image::doc/Verbe 3 001.jpg[Verbe3,640,480]
+==== verbe 4
+image::doc/Verbe 4 001.jpg[Verbe4,640,480]
+
