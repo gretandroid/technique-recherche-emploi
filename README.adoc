@@ -13,7 +13,7 @@ image::doc/Verbe 4 001.jpg[Verbe4,640,740]
 
 === La lettre de motivation
 
-Objet : offre de competence developpeur +
+Objet : offre de compétence développeur +
  +
  +
 Madame, Monsieur, +
