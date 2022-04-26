@@ -29,13 +29,46 @@ Mon experience professionnel, me permet de prendre en charge : +
 * -----
 
 
-
-=== Matrice des priorités
-
-
-
 === Lien en rapport avec le metier de dev
 https://fr.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Syntec[le syntec] :
 syndicats professionnels spécialisés dans les professions de l'ingénierie,
 du numérique, du conseil, +
 de l’événementiel et de la formation professionnelle. +
+
+
+=== Matrice des priorités
+
+[%header,cols="2",grid=rows,frame=topbot,width=100%,caption=Organisation]
+|===
+|Priorité |Poids de la priorité
+|Relation
+|/
+|Offre d'emploi
+|4
+|Prospection terrain
+|6
+|Prospection telephonique
+|1
+|interim
+|1
+|Candidature spontanée
+|3
+|Mailing
+|2
+|Salon professionnel
+|/
+|Réseaux sociaux
+|/
+|Chasseurs de tete
+|5
+|===
+
+
+=== Plan d'action, todo list
+[%header,format=csv]
+|===
+Date,Objectif,Observations
+06/05,finir CV,
+15/05,Identifier les liens utiles pour ma DB,
+20/05,Réaliser ma DB,
+|===
