@@ -3,7 +3,7 @@
 ==== Verbes
 
 ==== verbe 1
-image::doc/Verbe 1 001.jpg[Verbe1,500,740]
+image::doc/Verbe 1 001.jpg[Verbe1,640,740]
 ==== verbe 2
 image::doc/Verbe 2 001.jpg[Verbe2,640,480]
 ==== verbe 3
